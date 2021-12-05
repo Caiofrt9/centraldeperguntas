@@ -1,0 +1,20 @@
+{
+  "name": "rocketq",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anônimas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caiofrt9/centraldeperguntas.git"
+  },
+  "keywords": [],
+  "author": "Caiote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caiofrt9/centraldeperguntas/issues"
+  },
+  "homepage": "https://github.com/Caiofrt9/centraldeperguntas#readme"
+}
